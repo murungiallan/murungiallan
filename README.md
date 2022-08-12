@@ -1,16 +1,25 @@
-### Hi there 👋
+<h3>Hi there 👋, I'm Allan</h3>
 
-<!--
-**murungiallan02/murungiallan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a career in Data Science
+- 🌱 I’m currently learning Python and JavaSCript
+- 📫 How to reach me: <a href = "mailto: allancheboiw0@gmail.com">allancheboiw0@gmail.com</a>
 
-Here are some ideas to get you started:
+<details>
+  <summary>&#x1f4c8; My GitHub Stats</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murungiallan02&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murungiallan02&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murungiallan02&theme=tokyonight&count_private=true" />
+</details>
+
+<h3>🚀 Some Tools I have Used and Learned</h3>
+<p align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+</p>
