@@ -16,7 +16,7 @@ class SoftwareEngineer:
     
   def print_bio(self):
   
-    print("Undergraduate BSc in Computer Science at Swinburne Sarawak.")
+    print("Currently pursuing a BSc in Computer Science at Swinburne Sarawak.")
     print("Currently working on completing #100daysofcodechallenge in Python.")
     print("Currently conquering the freeCodeCamp curriculum.")
  
