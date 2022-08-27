@@ -1,38 +1,45 @@
-<h1 align="center">Hi there 👋</h1>
+# Hello there👋
 
-<p align="center">
-  <img src="https://github.com/murungiallan02/murungiallan02/blob/main/programming-computer-frog.gif" alt="programming-computer-frog gif" width="600" height="300">
-</p>
+```python
 
-<p align="justified">I am a second year student at Swinburne Sarawak pursuing a Bachelor's in Computer Science. I love coding in Python & JavaScript. Interested in Full Stack Web Development & Machine Learning.</p>
+class SoftwareEngineer:
 
-<h3>Statistics :chart_with_upwards_trend:</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=murungiallan02&theme=tokyonight&show_icons=true&count_private=true" width="600"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murungiallan02&theme=tokyonight&layout=compact&count_private=true" width="600"/></td>
-  </tr>
- </table>
+  def __init__(self):
+  
+    self.name = "Allan Murungi"
+    self.speaking_languages = ["Swahili, English"]
+    self.coding_languages = ["Python3", "JavaScript", "PHP", "C#"]
+    self.goals = [
+      {"Short Term": "Contribute to Open Source"},
+      {"Long Term": "Become a World Class Full Stack Engineer"}
+    ]
+    
+  def print_bio(self):
+  
+    print("Undergraduate BSc in Computer Science at Swinburne Sarawak.")
+    print("Currently working on completing #100daysofcodechallenge in Python.")
+    print("Currently conquering the freeCodeCamp curriculum.")
  
-<h3>Toolbox 🚀</h3>
+me = SoftwareEngineer()
+me.print_bio()
+
+```
+
+### GitHub Stats :computer:
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" height="45" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murungiallan02&layout=compact&theme=radical" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=murungiallan02&show_icons=true&theme=radical" width="400"/></td>
   </tr>
 </table>
+
+### Let's Connect: 
+
+<p>
+<a target="_blank" href="https://twitter.com/cas3zn"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="www.linkedin.com/in/allan-murungi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:allancheboiw0@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/cas3zn/"
+><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+</p>
