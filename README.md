@@ -28,8 +28,8 @@ me.print_bio()
 ### GitHub Stats :computer:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murungiallan02&layout=compact&theme=radical" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=murungiallan02&show_icons=true&theme=radical" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cas3zn&layout=compact&theme=radical" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=cas3zn&show_icons=true&theme=radical" width="400"/></td>
   </tr>
 </table>
 
