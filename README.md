@@ -8,7 +8,7 @@ class SoftwareEngineer:
   
     self.name = "Allan Murungi"
     self.speaking_languages = ["Swahili, English"]
-    self.coding_languages = ["Python3", "JavaScript", "PHP", "C#"]
+    self.coding_languages = ["Python3", "JavaScript", "PHP", "C#", "Kotlin"]
     self.goals = [
       {"Short Term": "Contribute to Open Source"},
       {"Long Term": "Become a World Class Full Stack Engineer"}
@@ -28,7 +28,7 @@ me.print_bio()
 ### GitHub Stats :computer:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cas3zn&layout=compact&theme=radical" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cas3zn&layout=compact&theme=radical&langs_count=10" width="400"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=cas3zn&show_icons=true&theme=radical" width="400"/></td>
   </tr>
 </table>
