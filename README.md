@@ -1,4 +1,8 @@
-# Hello there👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋&center=true&size=30">
+  </a>
+</h1>
 
 ```python
 
@@ -28,4 +32,10 @@ me.print_bio()
 ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
-<img src="programming-computer-frog.gif" width="400" height="300" style="text-align: center;"></img>
+<div>
+  <img align=left src="programming-computer-frog.gif" width="550" height="300" style="text-align: center;"></img>
+  <div align="right" width=350>
+    <img width=350 style="display:block;" src="https://github-readme-streak-stats.herokuapp.com/?user=cas3zn&theme=react&border=61dafb&hide_border=true" />
+    <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cas3zn&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </div>
+</div>
