@@ -24,7 +24,7 @@ me.print_bio()
 
 ### Let's Connect: 
 <p style="text-align: center;">
-<a target="_blank" href="https://twitter.com/cas3zn"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/murungiallan"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="www.linkedin.com/in/allan-murungi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:allancheboiw0@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -35,6 +35,6 @@ me.print_bio()
 ### Stats: 
 <img src="programming-computer-frog.gif" width="750" height="400" style="text-align: center;"></img>
 <div>
-  <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cas3zn&theme=react&border=61dafb&hide_border=true" />
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cas3zn&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murungiallan&theme=react&border=61dafb&hide_border=true" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murungiallan&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
