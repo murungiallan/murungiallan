@@ -1,11 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋&center=true&size=30">
-  </a>
-</h1>
-
 ```python
-
 class SoftwareEngineer:
 
   def __init__(self):
@@ -14,9 +7,9 @@ class SoftwareEngineer:
     self.speaking_languages = ["Swahili, English"]
     
   def print_bio(self):
-  
-    print("Currently pursuing a BSc in Computer Science at Swinburne University of Technology Sarawak.")
-    print("Working on Python as a data scientist.")
+    
+    print("Hello! I'm " + self.name)
+    print("Pursuing a BSc in Computer Science at Swinburne University of Technology Sarawak.")
  
 me = SoftwareEngineer()
 me.print_bio()
@@ -31,10 +24,3 @@ me.print_bio()
 <a target="_blank" href="https://www.instagram.com/cas3zn/"
 ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
-
-### Stats: 
-<img src="programming-computer-frog.gif" width="750" height="400" style="text-align: center;"></img>
-<div>
-  <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murungiallan&theme=react&border=61dafb&hide_border=true" />
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murungiallan&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</div>
