@@ -9,7 +9,6 @@ class SoftwareEngineer:
   def print_bio(self):
     
     print("Hello! I'm " + self.name)
-    print("Pursuing a BSc in Computer Science at Swinburne University of Technology Sarawak.")
  
 me = SoftwareEngineer()
 me.print_bio()
