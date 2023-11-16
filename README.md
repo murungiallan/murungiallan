@@ -26,7 +26,7 @@
     </td>
   </tr>
   <tr>
-    <td><img height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murungiallan&layout=compact&langs_count=4&card_width=380&theme=dark" /></td>
+    <td><img height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murungiallan&layout=compact&langs_count=8&card_width=380&theme=dark" /></td>
     <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murungiallan&theme=dark" alt="murungiallan"  width="380" height="auto"/></p></td>
   </tr>
 </table>
