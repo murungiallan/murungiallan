@@ -20,8 +20,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murungiallan&layout=donut-vertical&theme=dark&hide_border=true" alt="Top Langs" style="max-width: 100%; height: auto; width: auto;">
+      <a href="https://github.com/murungiallan">
+        <img src="https://readme-stats-iota-plum.vercel.app/api/top-langs?username=murungiallan&theme=dark&hide_border=true&layout=donut-vertical" alt="Top Langs" style="max-width: 100%; height: auto; width: auto;">
       </a>
     </td>
   </tr>
